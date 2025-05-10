@@ -1,7 +1,7 @@
 import requests
 
 files = {
-    "cleaned_traffic_data.csv": "YOUR_CSV_DOWNLOAD_LINK",
+    "cleaned_traffic_data.csv": "https://drive.google.com/file/d/1AccB-PBI5SZbA1_IqXequk7WB67Epzyk/view?usp=drive_link",
     "traffic_model.joblib": "YOUR_MODEL_DOWNLOAD_LINK"
 }
 
